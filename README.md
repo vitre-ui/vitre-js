@@ -2,6 +2,11 @@
 
 ![Vitre UI](https://vitre-ui.com/images/vitre-ui-dark.webp)
 
+> **This project has merged into [vitre-css](https://www.npmjs.com/package/vitre-css).**
+> Vitre CSS and Vitre JS are now a single project, released and versioned together.
+> Install `vitre-css` and load `vitre-css/vitre.js` for these same behaviors.
+> This package is fixed at 0.4.1 and will receive no further development.
+
 Small behavior helpers for semantic Vitre UI components.
 
 Vitre JS provides optional interactivity for semantic HTML. It does not ship component skinning. Pair it with [Vitre CSS](https://www.npmjs.com/package/vitre-css) when you want the full Vitre UI presentation.

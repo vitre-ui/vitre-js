@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.4.1 - 2026-08-15
+
+- Fixed a duplicate `COMPONENTS` declaration in `src/vitre.js` that made the ESM entry point fail to parse for npm and bundler consumers. The browser/CDN file was unaffected.
+- vitre-js has merged into the `vitre-css` package. This is a fix-only release; further development continues there as `vitre-css` 1.6.0 and later, where the behavior helpers ship as `vitre-css/vitre.js`.
+
 ## 0.4.0 - 2026-06-15
 
 - Added `data-kind="nav"` behavior for class-free same-origin SPA navigation.

@@ -1,5 +1,5 @@
 /*!
- * Vitre JS v0.4.0
+ * Vitre JS v0.4.1
  * Styleless behavior helpers for semantic Vitre UI components.
  * MIT License
  */

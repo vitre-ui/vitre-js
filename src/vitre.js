@@ -1,5 +1,5 @@
 /*!
- * Vitre JS v0.4.0
+ * Vitre JS v0.4.1
  * Styleless behavior helpers for semantic Vitre UI components.
  * MIT License
  */
@@ -14,8 +14,6 @@ const THEME_BUTTON_SELECTOR = '[data-v-theme-toggle]';
 const ENHANCED = 'vEnhanced';
 const STYLE_ID = 'vitre-js-alert-styles';
 const COMPONENTS = ['alerts', 'nav', 'splitters', 'theme-toggle'];
-const COMPONENTS = ['alerts', 'theme-toggle', 'splitters'];
-const COMPONENTS = ['alerts', 'nav', 'theme-toggle'];
 const THEME_STORAGE_KEY = 'vitre-theme';
 const THEME_ICON = '<svg viewBox="0 0 512 512" fill="currentColor" color="currentColor" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" style="overflow: visible;"><path fill="currentColor" d="M448 256c0-106-86-192-192-192v384c106 0 192-86 192-192zM0 256a256 256 0 1 1 512 0 256 256 0 1 1-512 0z"></path></svg>';
 
